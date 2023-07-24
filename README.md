@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pedro Montandon</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🌱 I’m currently learning **Go**
+<div align="center">
+  
+<h2>Languages</h2>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-- 💬 Ask me about **Nodejs and Typescript**
+<h2>Frameworks</h2>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
-- 📫 How to reach me **pedrobarbosa89@gmail.com**
+<h2>Tests</h2>
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
